@@ -1,0 +1,49 @@
+Annoying Brain: Tricky Quest (referred to as “the App”) is provided by the service provider (“we” or “us”) free of charge, on an “as is” basis. This Privacy Policy explains how we collect, use, store, and protect your information. Please read this policy carefully.
+
+1. Information Collection and Use
+When you download and use the App, we may collect certain information to optimize service performance and enable core functionalities, including but not limited to:
+- Your device’s Internet Protocol address (e.g., IP address);
+- Pages visited within the App, along with the time, date, and duration of each visit;
+- Total usage time of the App;
+- The type and version of the operating system running on your mobile device.
+
+Please note that the App does not collect precise geolocation information from your mobile device.
+We may use the collected information to send you important service-related notices, necessary announcements, and marketing promotions. Additionally, to improve user experience, we may occasionally request certain personally identifiable information, such as your email address. Such information will be used strictly in accordance with this policy and retained by us.
+
+2. Third-Party Access
+To enhance app performance and services, we may periodically transmit aggregated and anonymized data to external service providers. This data cannot be used to identify individual users. We only share your information with third parties as permitted under this policy.
+Please note that the App integrates certain third-party services, each of which has its own privacy policy governing the handling of user data. Below are the main third-party services we use, along with links to their respective privacy policies for your reference:
+- Google Play Services
+- AdMob
+- Google Firebase Analytics
+- Firebase Crashlytics
+- Unity
+- GameAnalytics
+- Adjust
+
+We may disclose information provided by you or automatically collected in the following circumstances:
+- When required by law (e.g., in response to a subpoena, court order, or other legal process);
+- When we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request;
+- When sharing information with trusted third-party service providers who process information on our behalf under instructions and in compliance with this policy.
+
+3. Opt-Out Rights
+You may stop all information collection by uninstalling the App at any time. You can do so using the standard uninstall process available through your mobile device or app store.
+
+4. Data Retention Policy
+We will retain user-provided data for as long as you use the App and for a reasonable period thereafter. If you would like us to delete any user-provided data submitted through the App, please contact us at yes.cpu@gmail.com. We will respond within a reasonable timeframe.
+
+5. Children’s Privacy
+The App is not designed for users under the age of 13. We do not knowingly collect personally identifiable information from children under 13, nor do we market to children under 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will promptly delete it from our servers. If you are a parent or guardian and believe that your child has provided us with information, please contact us via the email above so we can take appropriate action.
+
+6. Security Measures
+We take the security of your personal information seriously. We implement physical, electronic, and administrative safeguards to protect all information we process and store from unauthorized access, use, or disclosure.
+
+7. Policy Updates
+We may update this Privacy Policy from time to time. Any revisions will be posted on this page and will take effect immediately upon posting. Your continued use of the App constitutes acceptance of those changes. We encourage you to review this policy periodically for the latest information.
+This Privacy Policy was last updated on Sept 8, 2025.
+
+8. User Consent
+By using the App, you consent to the processing of your information as described in this Privacy Policy and any future updates.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact the service provider via email at gzxiangmu202509@163.com
